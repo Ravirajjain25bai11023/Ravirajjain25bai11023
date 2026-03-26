@@ -5,7 +5,7 @@
 🎓 **CSE (Artificial Intelligence and Machine Learning) Student at Vellore Institute of Technology, Bhopal Campus (VIT Bhopal University)**  
 📅 **Year:** 2025-2029
 ---
-##💡 About Me
+## 💡 About Me
 I am a young entrepreneur and technology enthusiast passionate about innovation, artificial intelligence, and solving real-world problems. I focus on building impactful solutions through AI, robotics, IoT, and modern technologies.
 
 ---
