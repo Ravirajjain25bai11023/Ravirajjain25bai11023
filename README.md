@@ -27,14 +27,13 @@ I am a young entrepreneur and technology enthusiast passionate about innovation,
 ---
 
 ## 🏆 Achievements
-🥇 Guinness World Records Holder  
-🥇 Asia Book of Records Holder  
-🥇 India Book of Records Holder  
-🏅 Jaipur Ratna Samman 2K23
-🏅 JIA 2025
-🏆 KVS Science National Student
-🏆 Served as **Atal Tinkering Lab Ambassador Student at Kendriya Vidyalaya Mandsaur**  
-
+- 🥇 Guinness World Records Holder  
+- 🥇 Asia Book of Records Holder  
+- 🥇 India Book of Records Holder  
+- 🏅 Jaipur Ratna Samman 2K23  
+- 🏅 JIA 2025  
+- 🏆 KVS Science National Student  
+- 🏆 Served as **Atal Tinkering Lab Ambassador Student at Kendriya Vidyalaya Mandsaur**
 
 ---
 
